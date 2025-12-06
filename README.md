@@ -1,59 +1,52 @@
+<!-- 主色调为#58A6FF -->
 <div align="center">
-
+  <!-- 动态svg部分 -->
   <a href="https://github.com/fufu39">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+a+Frontend+Developer;Student+@+UESTC+🇨🇳;Thinking+in+React+%26+Hooks;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+fufu39%F0%9F%91%8B%F0%9F%8F%BB;A+Frontend+Developer" alt="Typing SVG" />
   </a>
+  <br/>
 
-  <p align="center">
-    👋 <b>电子科技大学 (UESTC) 软件工程专业</b> <br/>
-    专注于 <b>React 生态</b>、<b>TypeScript</b> 与 <b>现代 Web 工程化</b>
-  </p>
-
-  <p align="center">
-    <a href="mailto:你的邮箱地址">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/你的linkedinID">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://bilibili.com">
-      <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
-    </a>
-  </p>
+  <!-- 基础信息部分 -->
+  <img src="./assets/profile.svg" alt="fufu39's profile" width="500" />
 
   <br/>
 
+  <!-- 技术栈部分 -->
   <h3>🛠️ Tech Stack & Arsenal</h3>
-  
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,redux,tailwind,html,css&perline=8&theme=dark" alt="My Skills" />
     </a>
-  </p>
-  
+  </p>  
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,postman,figma,idea&perline=8&theme=dark" alt="My Tools" />
     </a>
   </p>
-
   <br/>
 
-  <h3>📊 GitHub Analytics</h3>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fufu39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufu39&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" alt="languages graph" />
-  </div>
-
+  <!-- 贡献数量 -->
+  <h3>🔥 Commit Consistency</h3>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fufu39&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fufu39&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=9f9f9f&currStreakNum=58A6FF" alt="streak graph" />
   </p>
+  <br/>
 
+  <!-- 贡献图表 -->
+  <h3>📈 Monthly Contribution Trend</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fufu39&theme=tokyonight&hide_border=true&area=true&bg_color=00000000&line=58A6FF&point=58A6FF&color=58A6FF&area_color=58A6FF80&hide_title=false" alt="Activity Graph" />
   <br/>
   
+  <!-- ？？？？ -->
+  <h3>🐍 Contributions Evolution</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fufu39/fufu39/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/fufu39/fufu39/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/fufu39/fufu39/raw/output/github-contribution-grid-snake.svg">
+  </picture>
+  
   <p align="center">
-    <i>Let's code the future, one component at a time. 🚀</i>
+    <i>Let's code the future. 🚀</i>
   </p>
 
 </div>
