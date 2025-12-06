@@ -1,7 +1,7 @@
 name: generate animation
 
 on:
-  # 自动每 24 小时运行一次
+  # 自动每24小时运行一次，每天8点更新
   schedule:
     - cron: "0 0 * * *"
   

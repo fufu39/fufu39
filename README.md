@@ -4,11 +4,11 @@
   <a href="https://github.com/fufu39">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+fufu39%F0%9F%91%8B%F0%9F%8F%BB;A+Frontend+Developer" alt="Typing SVG" />
   </a>
-  <br/><br/>
+  <br/>
 
   <!-- 基础信息部分 -->
   <img src="./assets/profile.svg" alt="fufu39's profile" width="450" />
-  <br/>
+  <br/><br/>
 
   <!-- 技术栈部分 -->
   <h3>🛠️ Tech Stack & Tooling</h3>
@@ -46,7 +46,9 @@
   <br/><br/>
   
   <p align="center">
-    <big><i>Let's code the future. 🚀</i></big>
-  </p>
+  <span style="font-size: 16px; font-weight: bold;">
+    <i>Let's code the future. 🚀</i>
+  </span>
+</p>
 
 </div>
