@@ -7,20 +7,19 @@
   <br/>
 
   <!-- 基础信息部分 -->
-  <img src="./assets/profile.svg" alt="fufu39's profile" width="500" />
-
+  <img src="./assets/profile.svg" alt="fufu39's profile" width="260" />
   <br/>
 
   <!-- 技术栈部分 -->
-  <h3>🛠️ Tech Stack & Arsenal</h3>
+  <h3>🛠️ Tech Stack & Tooling</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,redux,tailwind,html,css&perline=8&theme=dark" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,react,vue,express,nodejs,vite,webpack,figma&perline=12&theme=dark" alt="Tech Stack" />
     </a>
   </p>  
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,postman,figma,idea&perline=8&theme=dark" alt="My Tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vim,docker,pnpm,nginx,vercel,vscode,visualstudio,linux,windows&perline=12&theme=dark" alt="Dev Tools" />
     </a>
   </p>
   <br/>
@@ -40,10 +39,11 @@
   <!-- ？？？？ -->
   <h3>🐍 Contributions Evolution</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fufu39/fufu39/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/fufu39/fufu39/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/fufu39/fufu39/raw/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fufu39/fufu39/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fufu39/fufu39/output/github-contribution-grid-snake.svg">
+    <img alt="Github Contribution - Snake Animation" src="https://raw.githubusercontent.com/fufu39/fufu39/output/github-contribution-grid-snake.svg">
   </picture>
+  <br/>
   
   <p align="center">
     <i>Let's code the future. 🚀</i>
