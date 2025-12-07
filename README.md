@@ -7,7 +7,11 @@
   <br/>
 
   <!-- 基础信息部分 -->
-  <img src="./assets/profile.svg" alt="fufu39's profile" width="450" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+    <img alt="fufu39's profile" src="./assets/profile.svg" width="450">
+  </picture>
   <br/><br/>
 
   <!-- 技术栈部分 -->
@@ -46,9 +50,9 @@
   <br/><br/>
   
   <p align="center">
-  <span style="font-size: 16px; font-weight: bold;">
-    <i>Let's code the future. 🚀</i>
-  </span>
-</p>
+    <span style="font-size: 16px; font-weight: bold;">
+      <i>Let's code the future. 🚀</i>
+    </span>
+  </p>
 
 </div>
